@@ -1,3 +1,3 @@
 echo
-echo "Loading PHPbrew'
+echo "Loading PHPbrew"
 source ~/.phpbrew/bashrc
